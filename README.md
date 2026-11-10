@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A9FEF7&center=true&vCenter=true&width=650&lines=Master's+student+in+AI+%26+Intelligent+Systems;Computer+Science+Teacher;Deep+Learning+for+Medical+Imaging;Robotics+%26+IoT+with+Arduino+%2F+ESP32" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A9FEF7&center=true&vCenter=true&width=650&lines=Master's+student+in+Information+Systems+%26+AI;Computer+Science+Teacher;Deep+Learning+for+Medical+Imaging;Robotics+%26+IoT+with+Arduino+%2F+ESP32" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## <img src="https://img.icons8.com/color/48/brain.png" width="32" /> About Me
 
-<img src="https://img.icons8.com/color/48/graduation-cap.png" width="20" /> Master's student in **Intelligent Systems & AI** at Sultan Moulay Slimane University<br/>
+<img src="https://img.icons8.com/color/48/graduation-cap.png" width="20" /> Master's student in **Information Systems & Artificial Intelligence** at Sultan Moulay Slimane University<br/>
 <img src="https://img.icons8.com/color/48/teacher.png" width="20" /> **Computer Science teacher** (high school): IT fundamentals, algorithms & programming, and office software<br/>
 <img src="https://img.icons8.com/color/48/robot-2.png" width="20" /> I also lead the school's **computer club**, where students explore **robotics** with Arduino & ESP32<br/>
 <img src="https://img.icons8.com/color/48/microscope.png" width="20" /> Research: **adequacy-first cervical image classification** for AI-assisted telecolposcopy<br/>
