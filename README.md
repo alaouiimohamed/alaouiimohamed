@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohamed%20Alaoui&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Intelligent%20Systems%20%7C%20Computer%20Science%20Teacher&descAlignY=58&descSize=18" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1500&color=36BCF7&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Alaoui" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Master's+student+in+AI+%26+Intelligent+Systems+%F0%9F%8E%93;Computer+Science+Teacher+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;Deep+Learning+for+Medical+Imaging+%F0%9F%A9%BA;Robotics+%26+IoT+with+Arduino+%2F+ESP32+%F0%9F%A4%96" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A9FEF7&center=true&vCenter=true&width=650&lines=Master's+student+in+AI+%26+Intelligent+Systems+%F0%9F%8E%93;Computer+Science+Teacher+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;Deep+Learning+for+Medical+Imaging+%F0%9F%A9%BA;Robotics+%26+IoT+with+Arduino+%2F+ESP32+%F0%9F%A4%96" />
 </p>
 
 <p align="center">
@@ -18,7 +18,8 @@
 ## 💫 About Me
 
 - 🎓 Master's student in **Intelligent Systems & AI** at Sultan Moulay Slimane University
-- 👨‍🏫 **Computer Science teacher**, introducing high-school students to programming & robotics
+- 👨‍🏫 **Computer Science teacher** (high school): IT fundamentals, algorithms & programming, and office software
+- 🤖 I also lead the school's **computer club**, where students explore **robotics** with Arduino & ESP32
 - 🔬 Research: **adequacy-first cervical image classification** for AI-assisted telecolposcopy
 - 🌱 Currently learning: **Vision Transformers, MLOps & Cloud**
 - 💬 Ask me about: **Python, Django, Deep Learning, Arduino / ESP32**
@@ -103,10 +104,6 @@
   <img src="https://streak-stats.demolab.com/?user=alaouiimohamed&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alaouiimohamed&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
 ---
 
 ## 🐍 Contribution Snake
@@ -119,5 +116,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%E2%9C%A8" />
 </p>
