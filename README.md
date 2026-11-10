@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1500&color=36BCF7&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Alaoui" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1500&color=36BCF7&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Mohamed+Alaoui" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A9FEF7&center=true&vCenter=true&width=650&lines=Master's+student+in+AI+%26+Intelligent+Systems+%F0%9F%8E%93;Computer+Science+Teacher+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;Deep+Learning+for+Medical+Imaging+%F0%9F%A9%BA;Robotics+%26+IoT+with+Arduino+%2F+ESP32+%F0%9F%A4%96" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A9FEF7&center=true&vCenter=true&width=650&lines=Master's+student+in+AI+%26+Intelligent+Systems;Computer+Science+Teacher;Deep+Learning+for+Medical+Imaging;Robotics+%26+IoT+with+Arduino+%2F+ESP32" />
 </p>
 
 <p align="center">
@@ -15,23 +15,23 @@
 
 ---
 
-## 💫 About Me
+## <img src="https://img.icons8.com/color/48/brain.png" width="32" /> About Me
 
-- 🎓 Master's student in **Intelligent Systems & AI** at Sultan Moulay Slimane University
-- 👨‍🏫 **Computer Science teacher** (high school): IT fundamentals, algorithms & programming, and office software
-- 🤖 I also lead the school's **computer club**, where students explore **robotics** with Arduino & ESP32
-- 🔬 Research: **adequacy-first cervical image classification** for AI-assisted telecolposcopy
-- 🌱 Currently learning: **Vision Transformers & Explainable AI for medical imaging**
-- 💬 Ask me about: **Python, Django, Deep Learning, Arduino / ESP32**
-- ⚡ Fun fact: I teach robots to move in class and teach models to see in the lab 🤖
+<img src="https://img.icons8.com/color/48/graduation-cap.png" width="20" /> Master's student in **Intelligent Systems & AI** at Sultan Moulay Slimane University<br/>
+<img src="https://img.icons8.com/color/48/teacher.png" width="20" /> **Computer Science teacher** (high school): IT fundamentals, algorithms & programming, and office software<br/>
+<img src="https://img.icons8.com/color/48/robot-2.png" width="20" /> I also lead the school's **computer club**, where students explore **robotics** with Arduino & ESP32<br/>
+<img src="https://img.icons8.com/color/48/microscope.png" width="20" /> Research: **adequacy-first cervical image classification** for AI-assisted telecolposcopy<br/>
+<img src="https://img.icons8.com/color/48/books.png" width="20" /> Currently learning: **Vision Transformers & Explainable AI for medical imaging**<br/>
+<img src="https://img.icons8.com/color/48/chat--v1.png" width="20" /> Ask me about: **Python, Django, Deep Learning, Arduino / ESP32**<br/>
+<img src="https://img.icons8.com/color/48/idea.png" width="20" /> Fun fact: I teach robots to move in class and teach models to see in the lab
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://img.icons8.com/color/48/source-code.png" width="32" /> Tech Stack
 
 <table align="center">
   <tr>
-    <td align="center"><b>🤖 AI & Data</b></td>
+    <td align="center"><b>AI & Data</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45" />&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="45" height="45" />&nbsp;
@@ -46,7 +46,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>🌐 Web</b></td>
+    <td align="center"><b>Web</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="45" height="45" />&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="45" height="45" />&nbsp;
@@ -59,7 +59,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>🔌 IoT & Robotics</b></td>
+    <td align="center"><b>IoT & Robotics</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="45" height="45" />&nbsp;
       <img src="https://cdn.simpleicons.org/espressif/E7352C" title="ESP32" alt="ESP32" width="45" height="45" />&nbsp;
@@ -67,7 +67,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>⚙️ Tools</b></td>
+    <td align="center"><b>Tools</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45" />&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="45" height="45" />&nbsp;
@@ -82,21 +82,21 @@
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://img.icons8.com/color/48/microscope.png" width="32" /> Featured Projects
 
 <details open>
-<summary><b>🩺 Adequacy-First Cervical AI</b>: deep learning for safer telecolposcopy</summary>
+<summary><img src="https://img.icons8.com/color/48/heart-health.png" width="20" /> <b>Adequacy-First Cervical AI</b>: deep learning for safer telecolposcopy</summary>
 <br/>
 
 - Classifies cervix type (Type 1 / 2 / 3) to assess **image adequacy** before diagnosis
 - Dataset: Intel & MobileODT Cervical Cancer Screening (6,733 images)
 - Explainability with **Grad-CAM** + referral rule for low-confidence cases
-- 📄 Paper submitted to **ICCEAI 2026**
+- Paper submitted to **ICCEAI 2026**
 
 </details>
 
 <details>
-<summary><b>💧 Smart Irrigation System</b>: IoT + Machine Learning</summary>
+<summary><img src="https://img.icons8.com/color/48/water.png" width="20" /> <b>Smart Irrigation System</b>: IoT + Machine Learning</summary>
 <br/>
 
 - **ESP32** sensors sending soil & weather data
@@ -106,7 +106,7 @@
 </details>
 
 <details>
-<summary><b>🤖 SmartHydroBot</b>: connected hydration assistant (with my students)</summary>
+<summary><img src="https://img.icons8.com/color/48/robot-2.png" width="20" /> <b>SmartHydroBot</b>: connected hydration assistant (with my students)</summary>
 <br/>
 
 - Smart bottle with a weight sensor, microcontroller, screen and mobile app
@@ -115,17 +115,17 @@
 </details>
 
 <details>
-<summary><b>🎓 CampusConnect</b>: team project</summary>
+<summary><img src="https://img.icons8.com/color/48/university.png" width="20" /> <b>CampusConnect</b>: team project</summary>
 <br/>
 
 - Collaborative university platform, developed with Git flow (`main` / `develop`)
-- 🔗 [View repository](https://github.com/alaouiimohamed/campusconnect)
+- [View repository](https://github.com/alaouiimohamed/campusconnect)
 
 </details>
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="32" /> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=alaouiimohamed&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="170" />
@@ -138,7 +138,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## <img src="https://img.icons8.com/color/48/snake.png" width="32" /> Contribution Snake
 
 <p align="center">
   <picture>
@@ -148,5 +148,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!" />
 </p>
